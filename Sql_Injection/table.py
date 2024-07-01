@@ -1,5 +1,5 @@
 import requests;
-from global_v import *;
+from Sql_Injection.global_v import *;
 
 def table_name(dbname):
     value =[];
