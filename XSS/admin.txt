@@ -1,0 +1,3 @@
+User ID: admin
+Cookie values: PHPSESSID=23br9b28ei5ov4n2b04upsmrvd
+----------------------------------------
